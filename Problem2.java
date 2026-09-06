@@ -1,7 +1,7 @@
 //time complexity O(2^n* n) 
 //space complexity o(n2) for string creation and stack space
 
-
+// dfs with a backtracking and a for loop
 class Solution {
     List<List<String>> result = new ArrayList<>();
 
